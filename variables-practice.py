@@ -1,4 +1,4 @@
-# Mike Jones
+# PJ VanDussen
 # 04 SEP 2024
 # Variables Practice
 
