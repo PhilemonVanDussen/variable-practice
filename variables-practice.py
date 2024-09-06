@@ -19,8 +19,8 @@
 # Define a variable called greeting and assign it a string value you'd use to greet someone (Good morning, Good afternoon, etc.)
 # Use the print function to print the value of one of three variables you created in Part 1
 school = 'Career Tech'
-favorite_singer = 'linkin park'
-greeting = Hi
+favorite_singer = "linkin park"
+greeting = 'Hi'
 print(school)
 print(favorite_singer)
 print(greeting) 
@@ -44,8 +44,9 @@ print(book_price)
 # Use the print function to print your first name on your screen
 # Use the print function to print the name of the city you live in on your screen
 # Use the print function to print your age on your computer screen
-first_name = pj
-city = kingsley
+first_name = "pj"
+
+city = "kingsley"
 my_age = 17
 print(first_name)
 print(city)
